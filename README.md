@@ -1,7 +1,7 @@
 # spmhr
 A program in Rust to generate stickman semaphore images from input text
 
-[Alt text]( "Hello world")
+![Alt text](hello.png "Hello world")
 
 ### Places for improvement:
 - Fix shit
